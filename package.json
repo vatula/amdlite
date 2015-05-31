@@ -1,0 +1,23 @@
+{
+  "name": "amdlite",
+  "version": "1.0.0",
+  "description": "Minimal but complete AMD loader",
+  "main": "amdlite.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vatula/amdlite.git"
+  },
+  "keywords": [
+    "amd",
+    "amdlite",
+	"module",
+	"loader",
+	"minimal",
+	"abadc0de"
+  ],
+  "author": "Dagg Nabbit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abadc0de/amdlite/issues"
+  }
+}
